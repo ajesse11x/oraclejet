@@ -16,7 +16,7 @@
     "requirejs": "2.3.5",
     "requirejs-text": "2.0.15",
     "@webcomponents/custom-elements": "1.0.8",
-    "proj4": "2.4.4",
+    "proj4": "2.5.0",
     "require-css": "0.1.10"
   },
   "files": [
